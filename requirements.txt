@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+transformers
+torch
+accelerate
+python-dotenv
